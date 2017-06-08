@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Notes
+This is basically a project created from create-react-app, with inspiration from [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate) that includes the latest experimental technologies, including:
+- Reselect
+- Immutable
+- React-Router 4
+- React-Router-Redux
+- Redux-Saga
+- Semantic UI (but you can change this easily)
+
+_End of added notes. Find the original README content below_
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
