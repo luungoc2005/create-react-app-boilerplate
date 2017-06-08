@@ -1,19 +1,6 @@
 /**
- * Copied straight from React-Boilerplate
  * Test store addons
  */
-//   const shape = {
-//     dispatch: isFunction,
-//     subscribe: isFunction,
-//     getState: isFunction,
-//     replaceReducer: isFunction,
-//     runSaga: isFunction,
-//     asyncReducers: isObject,
-//   };
-//   invariant(
-//     conformsTo(store, shape),
-//     '(app/utils...) asyncInjectors: Expected a valid redux store'
-//   );
 
 import { browserHistory } from 'react-router';
 import configureStore from '../store';
